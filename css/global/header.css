@@ -12,11 +12,15 @@ img {
     gap: 20px;
     justify-content: space-between;
     align-items: center;
-    box-sizing: border-box; /*valor de padding ñ some, ent pode colocar o maxwidth de maneira redonda*/
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*
+    box-sizing: border-box; /*valor de padding ñ some, ent pode colocar o maxwidth de maneira redonda
     padding: 20px;
     max-width: 1200px;
-    margin-left: auto; /*quando ele atinge 1200px ele muda de posição*/
-    margin-right: auto; /*quando ele atinge 1200px ele muda de posição*/
+    margin-left: auto; /*quando ele atinge 1200px ele muda de posição
+    margin-right: auto; /*quando ele atinge 1200px ele muda de posição
+    */
 }
 .header-menu {
     display: flex;
