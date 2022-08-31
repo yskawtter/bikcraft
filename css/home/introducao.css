@@ -9,6 +9,7 @@
 }
 
 .introducao img {
+    width: 100%;
     height: 100%;
     object-fit: cover; /*cobrir a img e ela nao destorcer*/
     border-radius: 4px;
