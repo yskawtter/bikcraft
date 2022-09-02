@@ -1,0 +1,17 @@
+.termos {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.termos h2 {
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.termos p + h2 { /*falar pro h2 que venha apos o <p>, então vai adicionar no 2 e no 3*/
+    margin-top: 40px;
+}
+
+.termosp {
+    max-width: 75ch;
+    margin-bottom: 24px;
+}
