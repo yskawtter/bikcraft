@@ -21,6 +21,8 @@
     font: 600 1.125rem/1.35 "Poppins", sans-serif;
     transition: .3;
     max-width: max-content; /*vai ter sempre o tamanho max do botao, nao vai crescer mais que isso*/
+    border: none;
+    cursor: pointer;
 }
 .botao:hover {
     background: linear-gradient(#ffb60d, #e59317);
