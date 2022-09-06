@@ -16,6 +16,11 @@ a {
     text-decoration: none;
     color: inherit; /*herdar o pai*/
 }
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
 
 [src$=".jpg"] {
     border-radius: 4px;
